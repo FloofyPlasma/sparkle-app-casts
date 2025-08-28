@@ -3,6 +3,21 @@
     <channel>
         <title>BlockheadsServerPatcher</title>
         <item>
+            <title>0.0.3</title>
+            <pubDate>Thu, 28 Aug 2025 17:27:34 -0400</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.5</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>v0.0.3</h1> <ul><li>Implemented BadPacketCrashPatch v0.0.1.</li></ul>
+]]></description>
+            <enclosure url="https://floofyplasma.github.io/sparkle-app-casts/bh-server-patcher/BlockheadsServerPatcher.app-v0.0.3.zip" length="5472059" type="application/octet-stream" sparkle:edSignature="VUqcmHvAagwnrJl0vFiCDb23gUmNwcwNxLNGOsXAJo36ml+SribsiPtaQgOm+10KOHDQ+buttM1ccB0fpk//Bw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://floofyplasma.github.io/sparkle-app-casts/bh-server-patcher/BlockheadsServerPatcher4-3.delta" sparkle:deltaFrom="3" length="5602" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862512" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="HVz5Zc/hPp+AjEnFD9pAzN8evtCBYsC7/MgrymnTaqZ5UI4HI0PcpEwdRI22Vugs+W8x41XKNpWYSTEISXtvCg=="/>
+                <enclosure url="https://floofyplasma.github.io/sparkle-app-casts/bh-server-patcher/BlockheadsServerPatcher4-2.delta" sparkle:deltaFrom="2" length="6502" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862512" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="eO0PF9lwkEqCkAWiJXDPUsQ34Uk3y+cDuAywprmfZg2OKRLrlg02hUyCgsE9ilH8F/ZJEoPc33tDJgdU9sVDCg=="/>
+                <enclosure url="https://floofyplasma.github.io/sparkle-app-casts/bh-server-patcher/BlockheadsServerPatcher4-1.delta" sparkle:deltaFrom="1" length="1847774" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862512" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="3F7iFSgh4ToZT2YS2c7mTmyMSA1BlXOi3nDGGOJy5q8fkHNfz0CkQ0FLKXBGWYUfIrMqx7gc/D5SSEVRPCZnDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.0.1</title>
             <pubDate>Thu, 28 Aug 2025 15:23:50 -0400</pubDate>
             <sparkle:version>3</sparkle:version>
@@ -28,14 +43,6 @@
             </sparkle:deltas>
             <description><![CDATA[<h1>v0.0.1</h1> <ul><li>Added app icon.</li></ul>
 ]]></description>
-        </item>
-        <item>
-            <title>0.0.0</title>
-            <pubDate>Thu, 28 Aug 2025 13:46:10 -0400</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>11.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://floofyplasma.github.io/sparkle-app-casts/bh-server-patcher/BlockheadsServerPatcher.app-v0.0.0.zip" length="3095139" type="application/octet-stream" sparkle:edSignature="ivDG1rxisoo3GcLX+QTvGrvPPx2BiZgufoe7StMOqSnfwdcL76qMnghcZlB86lgYXQ8bdRUlXLgWgnqaOhkhBg=="/>
         </item>
     </channel>
 </rss>
