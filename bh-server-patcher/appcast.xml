@@ -4,6 +4,20 @@
         <title>BlockheadsServerPatcher</title>
         <item>
             <title>0.0.1</title>
+            <pubDate>Thu, 28 Aug 2025 15:23:50 -0400</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.5</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>v0.0.2</h1> <ul><li>Updated FreightcarPatch to v0.0.2 from v0.0.1.</li></ul>
+]]></description>
+            <enclosure url="https://floofyplasma.github.io/sparkle-app-casts/bh-server-patcher/BlockheadsServerPatcher.app-v0.0.2.zip" length="5469009" type="application/octet-stream" sparkle:edSignature="DmtulW2t5G3uEoZajr45Osrh2GpYwkW+bqHBwG+2fgjm7xSTMMAyrUVWOvTvQ/WfJWtlsicZ6YTSOvviV4X+CQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://floofyplasma.github.io/sparkle-app-casts/bh-server-patcher/BlockheadsServerPatcher3-2.delta" sparkle:deltaFrom="2" length="5146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862512" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="YyGP547kaZwe8BoozeaCeXqRFbNyJ0IBotKtCZQh7BgOhJs74aND3zMYkEeCCeDIsnVqP++jrZS8ZGD2yCeXCg=="/>
+                <enclosure url="https://floofyplasma.github.io/sparkle-app-casts/bh-server-patcher/BlockheadsServerPatcher3-1.delta" sparkle:deltaFrom="1" length="1846202" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862512" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="4dvVEuQ25NEd5OiiZfFQ6KpAVumj81EZhSTkye2XT6Hxmon0bXshef785XKKSVbhkm+Lpd9VcLiuphGs6Sv6BQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.0.1</title>
             <pubDate>Thu, 28 Aug 2025 14:11:49 -0400</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
@@ -12,7 +26,7 @@
             <sparkle:deltas>
                 <enclosure url="https://floofyplasma.github.io/sparkle-app-casts/bh-server-patcher/BlockheadsServerPatcher2-1.delta" sparkle:deltaFrom="1" length="1845366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862512" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Pe51VeknZNBwtO6qc/ub2Luc0/QS2BFghpwjuYbivABIhiUbZT7tguo4jvpUcBkxQo85aUtfcb5lXAM7OO/hBQ=="/>
             </sparkle:deltas>
-            <description><![CDATA[<h1>v0.0.1</h1><ul><li>Added app icon.</li></ul>
+            <description><![CDATA[<h1>v0.0.1</h1> <ul><li>Added app icon.</li></ul>
 ]]></description>
         </item>
         <item>
